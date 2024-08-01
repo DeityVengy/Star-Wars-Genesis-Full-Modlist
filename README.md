@@ -60,7 +60,7 @@
 ## Quests
 - Yuuzhan Vong Main Story Conversion
 - Alternate Paradiso Solution - Eat the Rich
-- 
+
 ## Animations/Camera
 - 3rd Person Star Wars Pistol Animations
 - Angry Walk Animation
