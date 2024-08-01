@@ -278,7 +278,7 @@
 - Hostile Faction vs Faction Engagements
  
 # Misc. Changes & Bug Fixes
-- Linked Companion Helmt and Armor Usage
+- Linked Companion Helmet and Armor Usage
 - Neon Entertainer Logic Fixes
 - Removed Annihilator Effect
 - No Boost Assault Training Fire Shockwave Effect
