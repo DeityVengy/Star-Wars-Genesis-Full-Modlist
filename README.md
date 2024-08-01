@@ -1,6 +1,6 @@
 # Star Wars Genesis Full Modlist
 
-### This is an _attempt_ to list all mods in Star Wars Genesis. There will probably be some stuff I leave out by accident, especially in the Misc. Modifications Section
+### This is an _attempt_ to list all mods in Star Wars Genesis. There will probably be some stuff I leave out by accident, especially in the Integrated Section
 ##### Note: I will NOT be managing multiple versions of this page. You may see mods here that are in future versions.
 ##### Note: I Will NOT be providing version numbers of each and every mod. This is meant to be an overview of the modlist and not a way to manually install it.
 
