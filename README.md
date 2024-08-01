@@ -284,5 +284,3 @@
 - Removed Annihilator Effect
 - No Boost Assault Training Fire Shockwave Effect
 - Improved Credit Reward Kryx's Legacy
-
-
