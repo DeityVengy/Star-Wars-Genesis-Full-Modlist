@@ -33,6 +33,7 @@
 - Seamless Grav Jump
 - Star Wars - Seamless Hyperspace
 - Less Intrusive HUD and Better Crosshair
+- Hide NPC Level Numbers and Icons
 - Star Wars Genesis - Custom HUD Edits
 - Elite Dangerous Font Replacer
 
