@@ -157,6 +157,7 @@
 - Star Wars Patrol Trooper
 - Star Wars Medic Trooper
 - Star Wars Snowtroopers
+- Imperial Ground Crew Armor
 - Constellation Commandos (Constellation)
 - Neo Crusader Pack (Spacers)
 - Star Wars Spacer Overhaul
@@ -185,8 +186,10 @@
 - Smuggler Armor (Space Trucker Replacer)
 - Leia Outfit
 - The Book of Boba Fett Armor
+- Mandalorian Grounded Armor
 - Star Wars - Misc Armor Replacements
 - Star Wars Genesis - Armor Pack
+- Star Wars Genesis - Armor Compendium
 
 ## Characters
 - Starfield Hair and Beards - RTFP
@@ -198,6 +201,10 @@
 - Andreja Sith Exile
 - Vladimir Retired Clone
 - Star Wars Genesis - Companion Pack
+
+## Ships
+- Millenium Falcon
+- TIE Advanced
 
 ## Weapons
 - Crimson Fleet Arsenal - Star Wars Weapon Replacer
@@ -243,6 +250,7 @@
 - Vaso - Reduced Footstep Volume by Xtudo
 - Sith Code Artifact Sounds
 - Accelerated Charged Particle Array Scatter Gun SFX
+- Galactic NPC Blaster Symphony
 - Yuuzhan Vong Voicelines
 
 ## Performance
