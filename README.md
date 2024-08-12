@@ -2,7 +2,7 @@
 ### This is an _attempt_ to list all mods in Star Wars Genesis. There will probably be some stuff I leave out by accident, especially in the Integrated Section. As of V5, we are currently sitting at around 240 mods.
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 ##### Note: I will NOT be managing multiple versions of this page. You may see mods here that are in future versions.
-##### Note: I Will NOT be providing version numbers of each and every mod. This is meant to be an overview of the modlist and not a way to manually install it.
+##### Note: I Will NOT be providing version numbers of each and every mod. This is meant to be an overview of the modlist and not a way to manually install it. This list also includes custom mods with the same name as existing/deleted mods. These are mods I have recreated myself specifically for Genesis
 
 ## Core
 - Starfield Script Extender
