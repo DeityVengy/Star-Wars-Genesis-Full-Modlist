@@ -117,7 +117,8 @@
 - Massacre at Kreet
 - MASTmast
 - New Atlantis Lights on REDUX
-- Mos Eisley Cantina (Akila)
+- Mos Eisley Cantina (Akila)\
+- Nar Shaddaa Planet Texture
 
 ## Outfits
 - Sith Lords Robes
@@ -252,6 +253,7 @@
 - Accelerated Charged Particle Array Scatter Gun SFX
 - Galactic NPC Blaster Symphony
 - Yuuzhan Vong Voicelines
+- Dosh Hiss of the Hunter
 
 ## Performance
 - Weapon Swap Stuttering Fix
